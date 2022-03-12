@@ -2,9 +2,8 @@
 
 This is a java based project in which we are mimicing a VM architecture and managing processes and memory. 
 
-## Phase I
-### VM Architecture
-What to do?
+## Phase I (VM Architecture)
+### What to do?
 * Build main architecture
 * Implement instruction set
 
